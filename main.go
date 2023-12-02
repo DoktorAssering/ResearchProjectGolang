@@ -20,6 +20,5 @@ func main() {
 	}
 
 	difference := max - min
-	fmt.Print("Пока что!")
 	fmt.Printf("Разница между максимальным и минимальным значениями: %d\n", difference)
 }
